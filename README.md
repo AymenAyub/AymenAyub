@@ -8,7 +8,6 @@
 ## 👩‍💻 About Me
 
 * 🎯 Actively working towards a **Software Engineering Internship**
-* 🔄 Transitioning from a **pre-med background into tech**
 * 🧠 Curious about how **AI can be integrated into real-world applications**
 * ⚡ Focused on improving **problem-solving and development skills**
 
