@@ -30,7 +30,6 @@
 
 * Git, GitHub, VS Code
 
----
 
 ## 🌱 Currently Exploring
 
@@ -38,7 +37,6 @@
 * Machine Learning basics
 * Building intelligent features in web applications
 
----
 
 ## 🎯 Goals
 
@@ -46,12 +44,9 @@
 * Grow into a developer who can **combine AI with scalable web systems**
 * Build impactful and meaningful software
 
----
 
 ## 📫 Connect with Me
 
 * GitHub: https://github.com/AymenAyub
-
----
 
 ⭐ *Learning, evolving, and figuring things out one step at a time.*
